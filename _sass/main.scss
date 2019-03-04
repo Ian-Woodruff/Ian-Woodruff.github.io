@@ -1,0 +1,56 @@
+h1 {
+  color: yellow;
+  font-family: oswald;
+  font-size:200%;
+}
+h2 {
+  color: white;
+  font-family: oswald;
+  font-size: 125%;
+}
+p {
+  color: white;
+  font-family: oswald;
+  line-height: 2.0;
+}
+.current {
+  font-family: oswald;
+  font-weight: bold;
+  font-size: 200%;
+}
+table, th, td {
+  border: 1px solid RebeccaPurple;
+  border-collapse: collapse;
+  font-family: oswald;
+}
+th, td {
+  padding: 15px;
+  text-align: center;
+}
+  * {
+  box-sizing: border-box;
+}
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+header {
+  background-color: RebeccaPurple;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+footer {
+  background-color: RebeccaPurple;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+nav {
+  float: left;
+  width: 30%;
+  background: RebeccaPurple;
+  padding: 20px;
+}
