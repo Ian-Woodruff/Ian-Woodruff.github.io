@@ -23,15 +23,15 @@ title: tour
   </tr>
   <tr>
     <td>mytie lounge // brunswick, me</td>
-    <td>april 1</td>
+    <td>march 26</td>
   </tr>
   <tr>
     <td>red rocks amphitheatre // jefferson county, co</td>
-    <td>april 1</td>
+    <td>march 27</td>
   </tr>
   <tr>
     <td>walt disney concert hall // la</td>
-    <td>march 27</td>
+    <td>april 1</td>
   </tr>
   <tr>
     <td>hollywood bowl // la</td>
@@ -48,5 +48,9 @@ title: tour
   <tr>
     <td>sydney opera house // sydney</td>
     <td>april 20</td>
+  </tr>
+    <tr>
+    <td>mars // mars</td>
+    <td>february 29</td>
   </tr>
 </table>
