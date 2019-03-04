@@ -14,7 +14,7 @@ title: awards
 <h2>teen choice awards</h2>
 <p>
   <ul>
-  <li>homeboy one every single award // 2014-2018</li>
+  <li>homeboy won every single award // 2014-2018</li>
   </ul> 
 </p>
 <h2>misc</h2>
